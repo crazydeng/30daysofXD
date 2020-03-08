@@ -1,2 +1,6 @@
 # 30daysofXD
-# 30daysofXD
+
+
+# resource
+- http://letsxd.com/
+- 
